@@ -1,12 +1,17 @@
 button {
+  
   width: 300px;
   height: 100px;
   border: 2px solid black;
   border-radius: 30%;
+  margin: 10px;
 }
 
 button:hover {
   background-color: black;
   color: yellowgreen;
   border-color: yellowgreen;
+}
+span {
+  margin: 10px;
 }
